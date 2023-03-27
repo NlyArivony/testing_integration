@@ -1,0 +1,11 @@
+https://todo.pixegami.io/docs
+
+<!-- run pytest -->
+
+-> pytest or -> python -m pytest or -> python -m pytest -v or -> python -m pytest -v -s
+
+<!-- to select the test function -->
+
+-> python -m pytest -v -s .\test_todo_api.py::test_can_list_tasks
+
+https://www.youtube.com/watch?v=7dgQRVqF1N0&ab_channel=pixegami
